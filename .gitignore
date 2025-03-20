@@ -1,0 +1,35 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node.js dependencies (if you use Node.js)
+node_modules/
+
+# Log files
+*.log
+
+# Temporary files or directories
+tmp/
+temp/
+*.tmp
+
+# IDE specific files
+.idea/ # IntelliJ IDEA
+.vscode/ # VS Code
+*.swp # Vim swap files
+*.swo
+*~ # Emacs backup files
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+
+# Package or build outputs
+dist/
+build/
+out/
+target/
+
+# Environment files
+.env
